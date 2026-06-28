@@ -1,4 +1,5 @@
 {
-  "name": "Xiaomi Robot Vacuum S20+ Card",
-  "render_readme": true
+  "name": "Xiaomi Robot Vacuum Card (OV21GL)",
+  "render_readme": true,
+  "filename": "xiaomi-robot-vacuum-card.js"
 }
